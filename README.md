@@ -1,6 +1,6 @@
 # Tutorium_ArrayLoops
 
-## Kassensystem (Arrays)
+## Kassensystem (Array)
 
 Du wirst um Hilfe gebeten ein simples Kassensystem zu entwerfen. erstelle hierfür 2 Arrays in dem ersten Array befinden sich
 ganze Artikel: Brot 1 €, Käse, Pizza 2 € und Schokolade.
@@ -20,11 +20,22 @@ wiegbare Artikel: Nüsse 2,99 € für 1 KG, Bananen 3 € 1 KG
 ** Hinweis: 1000g = 100% -> 1g = 100/1000 ... **
 
 
-## Gewinnspiel (Array + Loops)
+## Gewinnspiel (Array + if)
 
 Zum 1 jährigen Jubiläum des Online Supermarktes deiner Freundin haben die Kunden die Chance an einem Gewinnspiel teilzunehmen. Der Gewinner erhält einen 25% Rabatt-Code auf seinen nächsten Einkauf, wenn er mindestns 1x Schokolade gekauft hat, wenn nicht, erhält er nur einen 20% Rabatt-Code. 
 
 ### Aufgabe
-Erstelle 3 verschiedene Kassenbelege:
 
-Tim kauft: 2x Käse
+- erstelle die oben genannte Abfrage
+- erstelle eine while oder for Schleife damit das array mit der Zuweisung des richtigen Rabattcodes ausgegeben wurd.
+
+
+## Die Wanne füllen (loop und if)
+
+Du möchtest eine Wanne voll Wasser füllen und hast ausgerechnet, dass du 10 volle Wassereimer brauchst um eine Wanne komplett zu füllen. Schreibe
+eine schleife (while oder for) um die Wanne mit Hilfe der Schlefe zu füllen.
+
+### Aufgabe
+
+- erstelle zuerst ein array mit folgendem Inahlt: 10%, 20%, 30%, ... 90%, Die Wanne ist voll!
+- erstelle eine while oder for Schleife, die oft genug durchläuft um die wanne zu füllen
