@@ -17,13 +17,12 @@ wiegbare Artikel: Nüsse 2,99 € für 1 KG, Bananen 3 € 1 KG
   - Lisa: 1x Brot, 2x Schokolade, 200g Bananen
   - Nico: 2x Pizza, 1x Käse, 300g Nüsse und 650g Bananen
 
-Hinweis: *** 1000g = 100% -> 1g = 100/1000 ... ***
+** Hinweis: 1000g = 100% -> 1g = 100/1000 ... **
 
 
+## Gewinnspiel (Array + Loops)
 
-## Lottomaschine (Array + Loops)
-
-Zum 1 jährigen Jubiläum des Online Supermarktes deiner Freundin haben die Kunden die Chane an einem Gewinnspiel teilzunehmen. Der gewinner erhält einen 25% Rabatt-Code auf seinen nächsten Einkauf, wenn er mindestns 1x Schokolade gekauft hat, wenn nicht, erhält er nur einen 20% Rabatt-Code. 
+Zum 1 jährigen Jubiläum des Online Supermarktes deiner Freundin haben die Kunden die Chance an einem Gewinnspiel teilzunehmen. Der Gewinner erhält einen 25% Rabatt-Code auf seinen nächsten Einkauf, wenn er mindestns 1x Schokolade gekauft hat, wenn nicht, erhält er nur einen 20% Rabatt-Code. 
 
 ### Aufgabe
 Erstelle 3 verschiedene Kassenbelege:
