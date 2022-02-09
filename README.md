@@ -39,4 +39,15 @@ eine schleife (while oder for) um die Wanne mit Hilfe der Schlefe zu füllen.
 
 - erstelle zuerst ein array mit folgendem Inahlt: 10%, 20%, 30%, ... 90%, Die Wanne ist voll!
 - erstelle eine while oder for Schleife, die oft genug durchläuft um die wanne zu füllen
+
+Öfter gibt es in der Programmierung den Fall, dass eine Variable von Schleifen, Funktionen und anderen Dingen verwendet wird:
+Beispiel:
+Max Konto: +1000 €
+Über den Monat wird täglich etwas geld verbraucht, allerdings bekommt er pro Tag auch minimal Zinsen, daher weiß man nie genau wie viel geld nun drauf ist, bis dies einmal überprüft wurde.
+
+Zurück zur Wanne:
+Eine for Schleife überprüft also den Wasserstand in der Wanne BEVOR ein weiterer Eimer eingegossen wird.
+Wie verhält sich dies mit einer do while Schleife?
+
 - 
+
